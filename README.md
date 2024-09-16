@@ -2,6 +2,8 @@
 
 - 🏅 Web developer Java and ReactJS
 
+[![Eduardo Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardogneto)](https://github.com/eduardogneto/github-readme-stats)
+
 ##
 
  <div>
