@@ -2,13 +2,12 @@
 
 - 🏅 Web developer Java and ReactJS
 
-[![Eduardo Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardogneto)](https://github.com/eduardogneto/github-readme-stats)
-
 ##
 
  <div>
   <a href="https://github.com/uude1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardogneto&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardogneto"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogneto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
