@@ -1,13 +1,13 @@
 ### Hi, I'm Eduardo! 🚀
 
-- 🏅 Web developer Java and ReactJS
+- 🏅 Web Developer Java and ReactJS
 
 ##
 
  <div>
   <a href="https://github.com/uude1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardogneto&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogneto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardogneto&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogneto&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
