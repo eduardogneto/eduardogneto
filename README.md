@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/eduardogneto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardogneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![Eduardo Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardogneto)](https://github.com/eduardogneto/github-readme-stats)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogneto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
