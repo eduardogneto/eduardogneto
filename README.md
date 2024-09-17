@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo! 🚀
 
-## - 🏅 Web Developer Java and ReactJS
+### - 🏅 Web Developer Java and ReactJS
 
 ##
 
